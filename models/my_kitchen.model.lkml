@@ -1,4 +1,4 @@
-connection: "intg-cib"
+connection: "crewinfo-dev"
 
 datagroup: my_kitchen_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
