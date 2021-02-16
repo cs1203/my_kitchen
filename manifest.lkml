@@ -1,7 +1,7 @@
 project_name: "my_kitchen"
 
 application: look-runner {
-  label: "Look runner"
+  label: "my-kitchen-test"
   url: "http://localhost:8080/bundle.js"
   entitlements: {
     local_storage: no
